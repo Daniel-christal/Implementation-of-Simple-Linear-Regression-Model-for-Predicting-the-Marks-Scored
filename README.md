@@ -67,8 +67,10 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
+![image](https://github.com/Daniel-christal/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742847/39cd68dc-a5bc-4713-88d8-aab9f7016908)
+![image](https://github.com/Daniel-christal/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742847/40930876-85d9-433f-a49d-ca5eb31b9d04)
+![image](https://github.com/Daniel-christal/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742847/367cc47e-0d61-4567-a8ea-e52b80769bf5)
 
-###Dataset
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
