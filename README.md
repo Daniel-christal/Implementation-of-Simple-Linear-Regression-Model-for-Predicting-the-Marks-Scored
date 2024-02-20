@@ -73,6 +73,15 @@ print("RMSE= ",rmse)
 
 ![image](https://github.com/Daniel-christal/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742847/367cc47e-0d61-4567-a8ea-e52b80769bf5)
 
+![image](https://github.com/Daniel-christal/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742847/6b59466c-fe6e-48c5-b726-82e97c13e426)
+
+![image](https://github.com/Daniel-christal/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742847/2208f535-1b46-4a58-a97e-fc4cd60e2989)
+
+![image](https://github.com/Daniel-christal/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742847/5d0fc8f7-f259-4721-9299-b0f899e3f43c)
+
+![image](https://github.com/Daniel-christal/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742847/d7f5a48a-b8d4-45fd-b669-7ac0529c88d1)
+
+![image](https://github.com/Daniel-christal/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/145742847/9d3fed06-ad54-463a-9679-477870f9f91a)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
